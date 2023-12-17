@@ -35,7 +35,7 @@ I'll perform exploratory data analysis using SQL queries to uncover patterns in 
 
 Feel free to contribute by suggesting improvements, providing insights, or extending the analysis. Fork this repository, make changes, and submit a pull request.
 
-# Description of data sources  
+## Description of data sources  
 
 In this analysis, I am using the provided "mintclassicsDB" from the Coursera project "Analyze Data in a Model Car Database with MySQL Workbench".   
 This is a fictional database for learning purposes.  
