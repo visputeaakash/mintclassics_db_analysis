@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project involves conducting an exploratory data analysis for Mint Classics Company, aimed at supporting inventory-related business decisions that may lead to the closure of a storage facility. As an entry-level data analyst, you'll leverage MySQL Workbench to analyze a relational database, identify insights, and formulate recommendations based on the provided data.
+This project involves conducting an exploratory data analysis for Mint Classics Company, aimed at supporting inventory-related business decisions that may lead to the closure of a storage facility. As an entry-level data analyst, I'll leverage MySQL Workbench to analyze a relational database, identify insights, and formulate recommendations based on the provided data.
 
 ## Project Scenario
 
