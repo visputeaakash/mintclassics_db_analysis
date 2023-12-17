@@ -31,9 +31,14 @@ I'll perform exploratory data analysis using SQL queries to uncover patterns in 
 - `queries/`: Includes SQL queries used for data analysis.
 - `reports/`: Documents summarizing findings and recommendations.
 
+
 ## Contributing
 
 Feel free to contribute by suggesting improvements, providing insights, or extending the analysis. Fork this repository, make changes, and submit a pull request.
+
+
+
+
 
 ## Description of data sources  
 
