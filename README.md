@@ -1,4 +1,4 @@
-# mintclassics_db_analysis
+
 # Mint Classics Inventory Analysis Project
 
 ## Overview
